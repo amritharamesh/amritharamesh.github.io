@@ -1,0 +1,65 @@
+.main h1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 72pt;
+	color: #ffF;
+	font-weight: 200;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.main {
+	margin-top: 150px;
+	margin-bottom:150px;
+}
+body { 
+  background: url('background.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.nav-bar a {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18pt;
+	color: #25366c;
+	padding: 14px 16px;
+	text-align: right;
+	padding-top: 10px;
+
+}
+
+.container-100 {
+	width:100%;
+}
+
+.contentSection {
+	padding:60px;
+}
+
+#life {
+	background-color: rgba(37,57,108,0.8);
+	color:#e5d6eb;
+	font-family: 'spinnaker', sans-serif
+
+
+}
+#hobbies {
+	background-color: rgba(206,208,231,0.8);
+	color:#d37197;
+		font-family: 'spinnaker', sans-serif
+
+}
+#education {
+	background-color: rgba(114,134,195,0.8);
+	color: #d4a6d4;
+	font-family: 'spinnaker', sans-serif
+}
+
+.nav-bar a:hover {
+	background-color: #CCBBDD;
+	color:#fff;
+}
+}
+
+
